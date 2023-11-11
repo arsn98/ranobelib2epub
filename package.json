@@ -32,6 +32,6 @@
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-adblocker": "^2.13.5",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "ranobelib2epub": "link:"
+    "ranobelib2epub": "file:"
   }
 }
